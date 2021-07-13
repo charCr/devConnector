@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://CharCr:gloriaCr22@devconnector.etfmg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://CharCr:gloriaCr22@devconnector.etfmg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "secretChar"
 }
